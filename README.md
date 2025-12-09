@@ -1,4 +1,4 @@
-# 🟣 **Deekshitha Reddy — AI/ML Engineer | Researcher | Builder**
+# 🟣 **Deekshitha Reddy - AI/ML Engineer | Researcher | Builder**
 
 Hi, I’m **Deekshitha 👋**
 I build neural networks, full-stack systems, and occasionally… **patent-worthy inventions**.
@@ -61,12 +61,6 @@ A full-stack event management system — real-time registration, leaderboards, a
 ### **👁️ Smart Attendance System**
 
 Face-recognition attendance with **98% accuracy**, built with deep learning + OpenCV.
-
-
-# 💬 **Fun Fact**
-
-I’m currently training AI agents to think —
-mostly because my own brain occasionally throws **“Segmentation Fault (Core Dumped)”**.
 
 
 # 🔗 **Connect**
