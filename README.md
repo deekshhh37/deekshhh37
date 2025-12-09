@@ -6,7 +6,7 @@ Currently exploring **AI agents**, **neuro-computing**, and multi-modal ML syste
 EEG signals + behavioral data?
 Yes — I fuse those to build smarter, more human-aware AI.
 
----
+
 
 # 🛠️ **Tech Stack**
 
