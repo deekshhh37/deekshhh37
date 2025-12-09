@@ -30,7 +30,6 @@ Yes — I fuse those to build smarter, more human-aware AI.
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge\&logo=graphql\&logoColor=E10098)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 
----
 
 ### **Frontend**
 
