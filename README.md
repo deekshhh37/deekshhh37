@@ -68,14 +68,6 @@ Face-recognition attendance with **98% accuracy**, built with deep learning + Op
 
 ---
 
-# ⚡ **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deekshhh37\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=12)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshhh37\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=12)
-
----
-
 # 💬 **Fun Fact**
 
 I’m currently training AI agents to think —
