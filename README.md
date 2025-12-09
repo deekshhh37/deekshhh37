@@ -19,7 +19,6 @@ Yes — I fuse those to build smarter, more human-aware AI.
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=336791)
 
----
 
 ### **ML / AI**
 
@@ -40,7 +39,6 @@ Yes — I fuse those to build smarter, more human-aware AI.
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge\&logo=vite\&logoColor=646CFF)
 ![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
----
 
 ### **Backend & Databases**
 
@@ -50,7 +48,6 @@ Yes — I fuse those to build smarter, more human-aware AI.
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
 ![Oracle](https://img.shields.io/badge/OracleSQL-000000?style=for-the-badge\&logo=oracle\&logoColor=F80000)
 
----
 
 # 🚀 **Projects**
 
@@ -66,14 +63,12 @@ A full-stack event management system — real-time registration, leaderboards, a
 
 Face-recognition attendance with **98% accuracy**, built with deep learning + OpenCV.
 
----
 
 # 💬 **Fun Fact**
 
 I’m currently training AI agents to think —
 mostly because my own brain occasionally throws **“Segmentation Fault (Core Dumped)”**.
 
----
 
 # 🔗 **Connect**
 
